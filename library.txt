@@ -1,0 +1,3 @@
+Python,Hamza,2023,All about python,True
+Python,Hamza,2023,All about python,False
+Python,Hamza,798,All about python,True
